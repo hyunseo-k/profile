@@ -1,0 +1,25 @@
+body {
+  background: rgb(227, 208, 255);
+  font-family: "Segoe UI";
+}
+
+p {
+  margin-bottom: 40px;
+}
+#wrapper {
+  width: 700px;
+  background: white;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.point {
+  background: black;
+  color: rgb(0, 255, 221);
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0px;
+}
